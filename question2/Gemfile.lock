@@ -1,0 +1,25 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (5.0.0)
+      columnize (= 0.9.0)
+    chunky_png (1.3.4)
+    columnize (0.9.0)
+    descriptive_statistics (2.5.1)
+    distribution (0.7.3)
+    nyaplot (0.1.6)
+    rubystats (0.2.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  chunky_png (~> 1.3.4)
+  descriptive_statistics (~> 2.5.1)
+  distribution (~> 0.7.3)
+  nyaplot (~> 0.1.6)
+  rubystats (~> 0.2.3)
+
+BUNDLED WITH
+   1.10.5
