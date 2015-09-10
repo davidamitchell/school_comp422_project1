@@ -65,12 +65,13 @@ During this step we process the image files extracting the below features using 
 
 These features are put into four different `csv` files:
 
- | File                         | Description                |
- | ---------------------------- | -------------------------- |
- | `data/face.csv`              | The positive training data |
- | `data/non-face.csv`          | The negative training data |
- | `data/testdata_face.csv`     | The positive test data     |
- | `data/testdata_non-face.csv` | The positive test data     |
+| File                         | Description                |
+| ---------------------------- | -------------------------- |
+| `data/face.csv`              | The positive training data |
+| `data/non-face.csv`          | The negative training data |
+| `data/testdata_face.csv`     | The positive test data     |
+| `data/testdata_non-face.csv` | The positive test data     |
+
 
 After which they are put into a tarball `data/feature_files.tar.gz`.
 

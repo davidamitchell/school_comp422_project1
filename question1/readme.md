@@ -8,7 +8,7 @@ To view the resulting images over X one can use the `eog` program, for example t
 ```
   eog images/1.2_noise_cancellation/ckt-board-saltpep_median.png
 ```
-(**note** you must have established your `ssh` connection with the `-Y` flag `ssh -Y mitchedavi3@greta-pt.ecs.vuw.ac.nz` )
+(**note** you must have established your `ssh` connection with the `-Y` flag `ssh -Y user@server.com` )
 
 #### 1.1 Edge Detection
 
